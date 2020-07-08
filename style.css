@@ -1,12 +1,14 @@
 .container{
-    background-color: skyblue;
+    background-color: rgb(229, 247, 229);
+    
 }
 .bg-color{
-    background-color: turquoise;
+    background-color: rgb(229, 247, 229);
+    
 }
 .logo-image{
     width: 30%;
-    height: 60%;
+    height: 70%;
     margin-top: 10px;
     margin-left: 20px;
 }
@@ -18,8 +20,9 @@
     background-color: green;
     color: white;
     border-radius: 15px;
-    font-weight: 200;
+    font-weight: 400;
     border: none;
+    padding: 4px 12px;
 }
 .learn{
     color: red;
@@ -57,7 +60,7 @@ height: 400px;
 
 }
 .cat-block{
-    background-color:turquoise;
+    background-color: rgb(235, 247, 235);
     height: 250px;
     border-radius: 14px;
    
@@ -83,6 +86,7 @@ font-weight: 500;
 
 .courses{
     height: 600px;
+    background-color: white;
 }
 .course-image{
     width: 90%;
@@ -107,4 +111,66 @@ font-weight: 500;
 .footer-marg2{
 margin-top: 50px;
 
+}
+.course-button{
+    margin-top: 30px;
+    font-size: 15px;
+    padding: 4px 12px;
+    font-weight: 500;
+}
+.course-heading{
+    text-align: center;
+    padding-bottom: 30px;
+    font-weight: 700;
+}
+
+.testimonial{
+    height: 300px;
+    background-color: white;
+}
+
+.man-img{
+    width: 25%;
+    margin-left: 240px;
+}
+
+.test-heading{
+    padding-top: 60px;
+}
+.test-parag{
+
+    font-weight: 500;
+    font-size: small;
+    color: gray;
+}
+.last-list{
+    height: 250px;
+    background-color: black;
+}
+.head-list{
+    color: white;
+    list-style-type: none;
+    font-weight: 800;
+    padding-top: 50px;
+}
+.child-list{
+    color: white;
+    list-style-type: none;
+    font-weight: 600;
+}
+.list-paragraph{
+    color: white;
+    font-weight: 600;
+    padding-top: 50px;
+    padding-left: 110px;
+}
+
+.foot{
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+.footer-end{
+    background-color: black;
 }
