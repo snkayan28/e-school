@@ -1,0 +1,110 @@
+.container{
+    background-color: skyblue;
+}
+.bg-color{
+    background-color: turquoise;
+}
+.logo-image{
+    width: 30%;
+    height: 60%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.nv-margin{
+    margin-left: 90px;
+}
+.sign-button{
+    
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+    font-weight: 200;
+    border: none;
+}
+.learn{
+    color: red;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.p-tag{
+    color: green;
+    font-weight: 700;
+
+}
+.fun{
+    font-weight: 700;
+    margin-left: 50px;
+}
+.lorem-para{
+    color: gray;
+    font-weight: 500;
+    margin-left: 50px;
+}
+.get-button{
+    margin-left: 50px;
+}
+.banner-image{
+    width: 80%;
+}
+.banner-container{
+    padding-top: 40px;
+height: 400px;
+}
+.img-cata{
+    width:22%;
+
+
+
+}
+.cat-block{
+    background-color:turquoise;
+    height: 250px;
+    border-radius: 14px;
+   
+}
+
+.catagories{
+height: 300px;
+background-color: white;
+margin-top: 40px;
+
+}
+.img-shad{
+    box-shadow: 0px 10px 20px gray;
+    background-color: white;
+}
+.cat-marg{
+margin-top: 20px;
+font-weight: 500;
+}
+.cat-color{
+    color: gray;
+}
+
+.courses{
+    height: 600px;
+}
+.course-image{
+    width: 90%;
+    
+    margin: 18px;
+}
+.card-radious{
+    border-radius: 20px;
+}
+.footer-img1{
+    width: 15%;
+    margin-right: 5px;
+}
+.footer-img2{
+    width: 15%;
+    margin-left: 25px;
+}
+.footer-marg{
+    margin-top: 50px;
+
+}
+.footer-marg2{
+margin-top: 50px;
+
+}
